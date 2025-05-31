@@ -1,0 +1,2 @@
+data/real_news.jsonl
+model/distilbert_detector_final/model.safetensors
